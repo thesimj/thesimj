@@ -10,11 +10,11 @@ Open to senior AI / backend engineering roles.
 
 **[StrixApp](https://onestrix.com)** - a quiet command center for coding agents. Desktop client plus a node daemon that keeps Claude Code, Codex and OpenCode running detached across local and remote machines, so agents keep working after the app closes. ~10 MB binary, multi-node fleet pairing with no inbound ports, built-in MCP server, encrypted relay tunnels.
 
-**[HiGuru](https://higuru.ai)** - AI-visibility audits. Scores how ChatGPT, Claude and Gemini see a business on a 12-dimension rubric across 3 models, with versioned, comparable runs. Astro web, audit workers, Postgres + MinIO, Playwright, OpenRouter.
-
 **AE Lang / SwarmGentic** - a deterministic DSL, compiler and runtime for multi-agent LLM workflows. Tokenizer, static validator, linter, JSON compiler, and a dependency-aware parallel runner with retries, journaled runs, and per-run evaluation. Reference implementation in TypeScript, second in Python.
 
 **[rust-openrouter-mcp](https://github.com/thesimj/rust-openrouter-mcp)** - MCP server and CLI for OpenRouter in a single Rust binary. Discover models and generate images, video and speech from Claude. On crates.io.
+
+**Knowledge Engine** - RAG pipeline over a large Obsidian knowledge base with Qdrant vector search and an agentic retrieval loop built on the Anthropic SDK.
 
 ### Before that
 
