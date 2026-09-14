@@ -2,7 +2,7 @@
 
 **Senior AI Engineer, Vienna.** I build agentic LLM systems and the infrastructure they run on.
 
-18+ years shipping production software. Started coding at 14, founded an ISP in Ukraine at 23 and ran it for 17 years, then moved to Vienna and grew Belichberg into an AI-first software studio. These days I mostly write Python and Rust around agents, RAG, and real-time data.
+18+ years shipping production software. I started coding at 14. I founded Belnet in 2006 and ran it until January 2024. I founded Belichberg in Vienna in 2017. These days I mostly write Python and Rust around agents, RAG, and real-time data.
 
 Open to senior AI / backend engineering roles.
 
@@ -13,6 +13,8 @@ Open to senior AI / backend engineering roles.
 **AE Lang / SwarmGentic** - a deterministic DSL, compiler and runtime for multi-agent LLM workflows. Tokenizer, static validator, linter, JSON compiler, and a dependency-aware parallel runner with retries, journaled runs, and per-run evaluation. Reference implementation in TypeScript, second in Python.
 
 **[rust-openrouter-mcp](https://github.com/thesimj/rust-openrouter-mcp)** - MCP server and CLI for OpenRouter in a single Rust binary. Discover models and generate images, video and speech from Claude. On crates.io.
+
+**[hetzner-mcp](https://github.com/thesimj/rust-hetzner-mcp)** - a Rust MCP server that manages Hetzner Cloud servers, networks, volumes, and firewalls.
 
 **Knowledge Engine** - RAG pipeline over a large Obsidian knowledge base with Qdrant vector search and an agentic retrieval loop built on the Anthropic SDK.
 
