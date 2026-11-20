@@ -1,6 +1,6 @@
 # Nick Bubelich
 
-![AI agentic product engineer: FlyETA and TankOver](banner.jpg)
+![Agentic product engineer: FlyETA and TankOver](banner.jpg)
 
 **Agentic product engineer, Vienna.** For the last 8 months, I have built real products with AI coding agents, running several agents at once on production code. FlyETA went from first commit to both app stores in 11 weeks.
 
