@@ -2,9 +2,21 @@
 
 ![AI agentic product engineer: FlyETA and TankOver](banner.jpg)
 
-**AI agentic product engineer, Vienna.** I take products from idea to the app stores, as one person with a fleet of AI coding agents.
+**Agentic product engineer, Vienna.** For the last 8 months, I have built real products with AI coding agents, running several agents at once on production code. FlyETA went from first commit to both app stores in 11 weeks.
 
-The agents write most of the code. I own the product: the few rules decided first, the design, the architecture, the tests and the release. The rules live in one file that every agent reads, and a gate checks them before anything ships.
+### How I work
+
+My setup came out of continuous learning, and it got simpler along the way: **Specification -> Development -> Verification**.
+
+- **Specification:** the rules and feature specs that every agent reads before it writes any code.
+- **Development:** several agents at once on production code.
+- **Verification:** automated gates with tests, coverage floors and checks. Every change passes them before it ships. Whatever fails goes back into the spec, so the next run starts from more.
+
+The harness behind it is my own: skills, rules, tools and quality gates. The agents and models inside it change as better ones come out. Two of my MCP servers are open source, listed below.
+
+18+ years in software and SysOps/DevOps. I have led and hired engineering teams, and I work best inside one. MSc (Magister) in Computer Science.
+
+*Every few months, the agents can do more. I bring that into the team and ship it.*
 
 ### Products
 
@@ -27,11 +39,10 @@ The agents write most of the code. I own the product: the few rules decided firs
 
 ### Before that
 
-18+ years of production software. I started coding at 14.
+I started coding at 14.
 
 - Co-built **raicoon's** Autonomous Operations Center for renewable energy. ML anomaly detection across 100+ solar plants and thousands of daily events. Later owned the architecture and hired the engineering team.
 - Technical lead on a physical-security platform suite: 180+ sites, 2,000+ cameras, 100 GB+ of video and telemetry a day on a private multi-node S3 cluster. Real-time video analytics and IoT pipelines.
-- Founded and ran **Belnet**, an ISP serving 20,000+ households in Odesa, for 17 years. Founded Belichberg in Vienna in 2017.
 - Kaggle: top 11% on iMaterialist Furniture (FGVC5), 97.72% ROC on TalkingData fraud detection.
 
 ### Stack
